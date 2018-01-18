@@ -7,4 +7,3 @@ dictCoefficients = {'Mobility':             [0, 0.069, 0.314],
                     'Usual Activity':       [0, 0.036, 0.094],
                     'Pain/Discomfort':      [0, 0.123, 0.386],
                     'Anxiety/Depression':   [0, 0.071, 0.236]};
-
