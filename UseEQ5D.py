@@ -1,4 +1,4 @@
-from PreferenceScores import EQ5D as eq
+import EQ5D as eq
 
 print("Score for ", [1, 1, 2, 3, 1])
 print(eq.get_score(mobility=1, self_care=1, usual_activity=2, pain_discomfort=3, anxiety_depression=1))
